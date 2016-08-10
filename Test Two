@@ -1,5 +1,0 @@
-# Test number two
-print "hello world"
-print "What is 3 + 2?" , 3 + 2
-print "hi"
-print "Finish"
